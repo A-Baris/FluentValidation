@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FluentValidationPractice_MVC.props" />
+</Project>
